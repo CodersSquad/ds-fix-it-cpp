@@ -1,8 +1,7 @@
-#
-# Credit to <jshafferman>(https://cplusplus.com/user/jshafferman/)
-# Source obtained from: https://cplusplus.com/forum/general/90347/
-#
-#
+
+// Credit to <jshafferman>(https://cplusplus.com/user/jshafferman/)
+// Source obtained from: https://cplusplus.com/forum/general/90347/
+
 
 // in the main before call to deal
 const char *suit[4] = {"Hearts", "Diamonds", "Clubs", "Spades"};
