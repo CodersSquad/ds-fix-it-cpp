@@ -15,6 +15,5 @@ _Your description goes here_
 # How to compile and run
 
 ```
-make
-./main
+make run
 ```

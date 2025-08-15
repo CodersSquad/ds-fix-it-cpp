@@ -24,3 +24,6 @@ $(TARGET): $(OBJS)
 # Clean rule: removes generated files
 clean:
 	rm -f $(OBJS) $(TARGET)
+
+run: $(TARGET)
+	./$(TARGET)
